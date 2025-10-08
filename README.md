@@ -48,8 +48,7 @@ Create a permanent pluggable database to host all coursework materials and assig
 #### Primary PDB Setup
 
 **SYSDBA Connection Establishment**  
-![Database Connection](<img width="771" height="415" alt="PICTURE ONE" src="https://github.com/user-attachments/assets/a55782ba-0e9e-4c4f-8c67-fd6e12c31d59" />
-)  
+Database Connection]<img width="771" height="415" alt="PICTURE ONE" src="https://github.com/user-attachments/assets/a55782ba-0e9e-4c4f-8c67-fd6e12c31d59" />
 *Initial connection with SYSDBA privileges*
 
 ```sql
