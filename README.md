@@ -136,7 +136,7 @@ Configure and validate Oracle Enterprise Manager for comprehensive database moni
 Port Setup
 HTTP Port: 8080
 HTTPS Port: 8443
-HERE YOU CAN ACCESS URL:https://localhost:8443/em
+HERE YOU CAN ACCESS URL:https://localhost:8443/em/shell
 <img width="927" height="443" alt="OEM CONFIFURATION" src="https://github.com/user-attachments/assets/0d76ed8c-7bbf-4028-9297-01948a8b0973" />
 
 *HTTP and HTTPS port configuration*
