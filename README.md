@@ -60,8 +60,7 @@ Create a permanent pluggable database to host all coursework materials and assig
 ```sql
 ```
 **PDB Creation Execution**  
-![PDB Creation](<img width="1138" height="112" alt="create pluggable database" src="https://github.com/user-attachments/assets/3e4fc7d1-7988-4e59-9ef3-924b64dbe60e" />
-)  
+![PDB Creation]<img width="1138" height="112" alt="create pluggable database" src="https://github.com/user-attachments/assets/3e4fc7d1-7988-4e59-9ef3-924b64dbe60e" />
 *Successful creation of en_pdb_27394 with admin user*
 ```sql
  SHOW PDBS;
