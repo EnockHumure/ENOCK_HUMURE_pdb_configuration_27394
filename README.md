@@ -59,14 +59,15 @@ Database Connection]<img width="771" height="415" alt="PICTURE ONE" src="https:/
 ```sql
 ```
 **PDB Creation Execution**  
-![PDB Creation]<img width="1138" height="112" alt="create pluggable database" src="https://github.com/user-attachments/assets/3e4fc7d1-7988-4e59-9ef3-924b64dbe60e" />
+PDB Creation<img width="1138" height="112" alt="create pluggable database" src="https://github.com/user-attachments/assets/3e4fc7d1-7988-4e59-9ef3-924b64dbe60e" />
 *Successful creation of en_pdb_27394 with admin user*
 ```sql
  SHOW PDBS;
 ```sql
 ```
 **User Account Setup**  
-![User Creation]<img width="1086" height="192" alt="SHOW DELETED TABLE" src="https://github.com/user-attachments/assets/7c100761-825e-4602-921c-2c2f4b1e6e6f" />
+User Creation 
+<img width="1086" height="192" alt="SHOW DELETED TABLE" src="https://github.com/user-attachments/assets/7c100761-825e-4602-921c-2c2f4b1e6e6f" />
   
 *Administrative user enock_plsqlauca_27394 configured*
 *Confirmation of PDB in READ WRITE mode*
@@ -93,11 +94,13 @@ CREATE PLUGGABLE DATABASE en_to_delete_pdb_27394
 ```sql
 ```
 
-![Temp PDB-delete-table Creation]<img width="1261" height="147" alt="CREATING THE DELETED TABLE" src="https://github.com/user-attachments/assets/0da8d691-09cc-40e9-8c6d-b03ca09171a9" />
+Temp PDB-delete-table Creation
+<img width="1261" height="147" alt="CREATING THE DELETED TABLE" src="https://github.com/user-attachments/assets/0da8d691-09cc-40e9-8c6d-b03ca09171a9" />
 
 **Database Deletion Confirmation**  
 
-![PDB Deletion]<img width="897" height="290" alt="DROPIG DELETE TABLE" src="https://github.com/user-attachments/assets/20e0d425-9df2-4f23-945b-f9ca2bd02cb0" />
+PDB Deletion
+<img width="897" height="290" alt="DROPIG DELETE TABLE" src="https://github.com/user-attachments/assets/20e0d425-9df2-4f23-945b-f9ca2bd02cb0" />
 
 *Successful deletion with datafile removal*
 
@@ -130,19 +133,25 @@ Configure and validate Oracle Enterprise Manager for comprehensive database moni
 ```
 
 **Port Configuration**  
-![Port Setup]<img width="927" height="443" alt="OEM CONFIFURATION" src="https://github.com/user-attachments/assets/0d76ed8c-7bbf-4028-9297-01948a8b0973" />
+Port Setup
+HTTP Port: 8080
+HTTPS Port: 8443
+HERE YOU CAN ACCESS URL:https://localhost:8443/em
+<img width="927" height="443" alt="OEM CONFIFURATION" src="https://github.com/user-attachments/assets/0d76ed8c-7bbf-4028-9297-01948a8b0973" />
 
 *HTTP and HTTPS port configuration*
 
 **OEM Login Interface**  
 *Enterprise Manager login screen*
 
-![OEM Login]<img width="1296" height="612" alt="login in oracle database" src="https://github.com/user-attachments/assets/957cad6c-1d5c-47cb-b774-e45c2dad78c5" />
+OEM Login
+<img width="1296" height="612" alt="login in oracle database" src="https://github.com/user-attachments/assets/957cad6c-1d5c-47cb-b774-e45c2dad78c5" />
  
 **Management Dashboard**  
 *OEM dashboard showing user session and database status*
 
-![Dashboard Overview]<img width="1303" height="645" alt="OEM dashboard" src="https://github.com/user-attachments/assets/209ffd0f-b5f3-4478-85c8-544025304829" />
+Dashboard Overview
+<img width="1303" height="645" alt="OEM dashboard" src="https://github.com/user-attachments/assets/209ffd0f-b5f3-4478-85c8-544025304829" />
 
 
 ### technical-implementation
