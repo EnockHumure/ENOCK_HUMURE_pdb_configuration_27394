@@ -94,13 +94,12 @@ CREATE PLUGGABLE DATABASE en_to_delete_pdb_27394
 ```sql
 ```
 
-![Temp PDB-delete-table Creation](<img width="1261" height="147" alt="CREATING THE DELETED TABLE" src="https://github.com/user-attachments/assets/0da8d691-09cc-40e9-8c6d-b03ca09171a9" />
-)  
+![Temp PDB-delete-table Creation]<img width="1261" height="147" alt="CREATING THE DELETED TABLE" src="https://github.com/user-attachments/assets/0da8d691-09cc-40e9-8c6d-b03ca09171a9" />
 
 **Database Deletion Confirmation**  
 
-![PDB Deletion](<img width="897" height="290" alt="DROPIG DELETE TABLE" src="https://github.com/user-attachments/assets/20e0d425-9df2-4f23-945b-f9ca2bd02cb0" />
-)  
+![PDB Deletion]<img width="897" height="290" alt="DROPIG DELETE TABLE" src="https://github.com/user-attachments/assets/20e0d425-9df2-4f23-945b-f9ca2bd02cb0" />
+
 *Successful deletion with datafile removal*
 
 ```sql
@@ -132,21 +131,20 @@ Configure and validate Oracle Enterprise Manager for comprehensive database moni
 ```
 
 **Port Configuration**  
-![Port Setup](<img width="927" height="443" alt="OEM CONFIFURATION" src="https://github.com/user-attachments/assets/0d76ed8c-7bbf-4028-9297-01948a8b0973" />
-)  
+![Port Setup]<img width="927" height="443" alt="OEM CONFIFURATION" src="https://github.com/user-attachments/assets/0d76ed8c-7bbf-4028-9297-01948a8b0973" />
+
 *HTTP and HTTPS port configuration*
 
 **OEM Login Interface**  
-![OEM Login](<img width="1296" height="612" alt="login in oracle database" src="https://github.com/user-attachments/assets/957cad6c-1d5c-47cb-b774-e45c2dad78c5" />
-)  
 *Enterprise Manager login screen*
 
+![OEM Login]<img width="1296" height="612" alt="login in oracle database" src="https://github.com/user-attachments/assets/957cad6c-1d5c-47cb-b774-e45c2dad78c5" />
+ 
 **Management Dashboard**  
-![Dashboard Overview](<img width="1303" height="645" alt="OEM dashboard" src="https://github.com/user-attachments/assets/209ffd0f-b5f3-4478-85c8-544025304829" />
-)  
 *OEM dashboard showing user session and database status*
 
-</div>
+![Dashboard Overview]<img width="1303" height="645" alt="OEM dashboard" src="https://github.com/user-attachments/assets/209ffd0f-b5f3-4478-85c8-544025304829" />
+
 
 ### technical-implementation
 
@@ -162,7 +160,9 @@ Configure and validate Oracle Enterprise Manager for comprehensive database moni
 - **FILE_NAME_CONVERT parameter is required when creating from pdbseed
 - **Using SAVE STATE ensures PDB opens automatically after database restarts
 - **OEM setup was straightforward once ports were properly configured
+  
  ### References
+ 
 - ** Oracle Database 21c Documentation
 - ** Course Lecture: "Introduction to PL/SQL"
 - ** Course Lecture: "Oracle Database Environment (CDBs & PDBs) & OEM"
